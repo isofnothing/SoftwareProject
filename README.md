@@ -1,2 +1,2 @@
 # SoftwareProject
-Our group's project of Software Engineering Course
+My group's project of Software Engineering Course
